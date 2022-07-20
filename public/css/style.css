@@ -3,6 +3,7 @@ body {
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
     background: url("../images/weather.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
